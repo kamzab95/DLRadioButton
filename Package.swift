@@ -22,9 +22,6 @@ let package = Package(
             name: "DLRadioButton",
             dependencies: [],
             path: "DLRadioButton",
-            publicHeadersPath: "DLRadioButton",
-            cSettings: [
-               .headerSearchPath("DLRadioButton"), // 5
-            ])
+            publicHeadersPath: "DLRadioButton")
     ]
 )
