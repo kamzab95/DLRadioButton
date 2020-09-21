@@ -21,6 +21,7 @@ let package = Package(
         .target(
             name: "DLRadioButton",
             dependencies: [],
-            path: "DLRadioButton")
+            path: "DLRadioButton",
+            publicHeadersPath: "DLRadioButton")
     ]
 )
